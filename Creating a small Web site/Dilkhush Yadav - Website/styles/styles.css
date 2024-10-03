@@ -1,0 +1,157 @@
+body { 
+	padding: 0px; 
+	margin:  0px; 
+	font-family: Arial, Helvetica, sans-serif; 
+	background: #fff; 
+	color: #000; 
+}
+
+.navlist a{
+	color: #fff;
+    font-size: 18px;
+    text-decoration: none;
+    padding: 4px 10px;
+    border-radius: 20px;
+}
+
+.deadnav{
+	color:#FFF;
+	background-color: #777777;
+	box-shadow: 0px 1px 2px 0px #000000;
+}
+
+.navlist a:visited{
+	color: #ffe063
+}
+
+.navlist a:hover{
+	background-color: #95e5ff;
+    color: #062085;
+    transition: 0.3s;
+}
+
+.navlist a:active{
+	color: #f3f
+}
+
+.header{
+	display: flex;
+	margin: 10px;
+    padding: 10px;
+    background-color: #7f7f7f;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 5px;
+}
+
+.logo img{
+	border-radius: 60px;
+}
+
+.logo-text{
+	margin: 34px 20px
+}
+
+.navlist li
+{
+	display: inline;
+	list-style-type: circle;
+	padding-right: 20px;
+	line-height: 1.1em;
+	margin: 0 .5em 0 -.5em;
+	padding: 0 .5em 0 .5em;
+}
+
+.navlist li:not(:first-child)
+{
+	border-left: 1px solid #000;
+}
+
+.box {
+	margin: 10px;
+	padding: 10px;
+	background-color: #666;
+	border-width: 1px;
+	border-color: black;
+	border-style: solid;
+	clear: both;
+
+}
+
+.nav {
+	margin: 10px;
+	padding: 10px;
+	background-color: #999;
+	border-width: 1px;
+	border-color: black;
+	border-style: solid;
+	border-radius: 40px;
+}
+
+
+
+.mid-nav{
+	display: flex;
+	margin: 40px 0;
+}
+
+.left {
+	width: 22%;
+	margin: 10px;
+	padding: 10px;
+	background-color: #ccc;
+	border-width: 1px;
+	border-color: black;
+	border-style: solid;
+	float: left;
+	border-radius: 5px;
+}
+
+.center {
+	width:47%;
+	margin:10px;
+	padding:10px;
+	background-color:#ccc;
+	border-width:1px;
+	border-color:black;
+	border-style:solid;
+	float:left;
+	border-radius: 5px;
+}
+
+.right {
+	width:22%;
+	margin:10px;
+	padding:10px;
+	background-color:#ccc;
+	border-width:1px;
+	border-color:black;
+	border-style:solid;
+	float:right;
+	border-radius: 5px;
+}
+
+.lower-nav {
+	margin:10px;
+	padding:10px;
+	background-color:#999;
+	border-width:1px;
+	border-color:black;
+	border-style:solid;
+	clear:both;
+	border-radius: 5px;
+}
+
+.legal {
+	margin:10px;
+	padding:10px;
+	background-color:#7f7f7f;
+	border-width:1px;
+	border-color:black;
+	border-style:solid;
+	float:none;
+	clear:both;
+	border-radius: 5px;
+	margin-top: 30px;
+}
