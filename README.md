@@ -1,18 +1,18 @@
-###Files from HTTP-5110
-#Introduction to Web Development
-#Course Code: HTTP 5110
-#Academic Year: 2025-2026
-#This course will introduce students to the roles and responsibilities of a Web Developer.
+# Files from HTTP-5110
+### Introduction to Web Development
+### Course Code: HTTP 5110
+### Academic Year: 2025-2026
+### This course will introduce students to the roles and responsibilities of a Web Developer.
 
-###Links
+# Links
 https://www.w3schools.com/whatis/
 
-###Images
+# Images
 Web Development Overview
 
-##Important Notice: This repository contains my weekly work for this course. Familiarizing yourself with web development concepts is essential for anyone looking to pursue a career in this field.
+### Important Notice: This repository contains my weekly work for this course. Familiarizing yourself with web development concepts is essential for anyone looking to pursue a career in this field.
 
-###Example Code
+# Example Code
 Here is a simple HTML template for a web development project:
 
 <!DOCTYPE html>
