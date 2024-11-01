@@ -7,7 +7,7 @@
 # Links
 https://www.w3schools.com/whatis/
 
-# Images
+# Image
 Web Development Overview
 
 ![image](https://github.com/user-attachments/assets/9346407d-4a65-456d-b300-e432c1d897c4)
