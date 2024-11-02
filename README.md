@@ -10,7 +10,8 @@ https://www.w3schools.com/whatis/
 # Image
 Web Development Overview
 
-![image](https://github.com/user-attachments/assets/9346407d-4a65-456d-b300-e432c1d897c4)
+![image](https://github.com/user-attachments/assets/314c6063-7b97-4326-9d0e-61445d769f13)
+
 
 
 ### Notice: This repository contains my work for this course. Familiarizing yourself with web development concepts is essential for anyone pursuing a career in this field.
